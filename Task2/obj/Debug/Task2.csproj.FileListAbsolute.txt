@@ -1,0 +1,5 @@
+c:\Users\Yaroslav\documents\visual studio 2013\Projects\Task1\Task2\bin\Debug\Task2.exe.config
+c:\Users\Yaroslav\documents\visual studio 2013\Projects\Task1\Task2\bin\Debug\Task2.exe
+c:\Users\Yaroslav\documents\visual studio 2013\Projects\Task1\Task2\bin\Debug\Task2.pdb
+c:\Users\Yaroslav\documents\visual studio 2013\Projects\Task1\Task2\obj\Debug\Task2.exe
+c:\Users\Yaroslav\documents\visual studio 2013\Projects\Task1\Task2\obj\Debug\Task2.pdb
